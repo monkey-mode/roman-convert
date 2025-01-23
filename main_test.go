@@ -17,6 +17,7 @@ func TestRomanToArabic(t *testing.T) {
         {"XXXIX", 39},
         {"XL", 40},
         {"L", 50},
+		{"LXIX",69},
         {"XC", 90},
         {"C", 100},
         {"CD", 400},
